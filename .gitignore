@@ -23,3 +23,9 @@ rerun.txt
 pickle-email-*.html
 .project
 config/initializers/secret_token.rb
+
+# Ignore database config
+/config/database.yml
+
+# Ignore framework script
+/bin/*
